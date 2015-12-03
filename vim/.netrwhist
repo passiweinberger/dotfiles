@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/passiweinberger/.rvm/gems/ruby-2.0.0-p353@ort3/gems/livequery-rails-0.0.1'
+lme "*.txt" -print | xargs sed -i 's/this/that/g'et g:netrw_dirhist_2='/Users/passiweinberger/.rvm/gems/ruby-2.1.5/gems/tinder_pyro-0.0.1'
+let g:netrw_dhist_3='/Users/passiweinberger'
